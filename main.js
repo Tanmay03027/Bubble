@@ -1,6 +1,6 @@
 
 // make bubble start
-// make bubble code ko ek function ke andar rakh diya
+
 function makeBubble(){
      
 // this code make the bubble 
@@ -31,7 +31,7 @@ function hit(){
 
 
 // timer js start 
-// ye function jop timer hey uske liye hey = iss function se vo time chalega 
+
 
 function runTimer(){
     var timer = 60; //local variable
@@ -99,7 +99,7 @@ function startGame(){
 
 // // function calling part section 
 // runTimer(); // timer function called
-// makeBubble(); // to make bubbles use this function = iss function ke andar bubble print karvane ka pura code hey
+// makeBubble(); 
 //  hit(); // calling hit function 
 
 
